@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ávilla
 
-I'm a computer science student working on becoming a web developer.
+I'm a computer scientist working as backend developer.
 
 ### Technologies & tools I've been using:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
