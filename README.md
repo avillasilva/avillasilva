@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ávilla
+## Hi there 👋, I'm Ávilla Silva
 
 I'm a computer scientist working as backend developer.
 
